@@ -117,3 +117,4 @@ indi-sx/indi_sx_ccd
 indi-sx/indi_sx_wheel
 indi-sx/sx_ccd_test
 libinovasdk/make_inovasdk_symlink.cmake
+indi-tecnocap/tecnocap.old.cpp

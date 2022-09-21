@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driversList>
+   <devGroup group="Auxiliary">
+      <device label="TecnoCap" manufacturer="Tecnosky">
+         <driver name="TecnoCap">indi_tecnocap</driver>
+         <version>.</version>
+      </device>
+   </devGroup>
+</driversList>
